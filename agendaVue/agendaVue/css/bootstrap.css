@@ -1525,6 +1525,7 @@ pre,
 samp {
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+
 code {
   padding: 2px 4px;
   font-size: 90%;
@@ -1576,6 +1577,7 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
+  padding-top: 200px;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -1609,6 +1611,7 @@ pre code {
   min-height: 1px;
   padding-left: 15px;
   padding-right: 15px;
+  padding-bottom: 15px;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
